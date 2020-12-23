@@ -15,3 +15,5 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/rammap
 Microsoft Teams
 https://teams.microsoft.com/downloads
 
+CMake
+https://cmake.org/download/
