@@ -12,3 +12,6 @@ https://download.cnet.com/SQLiteSpy/3000-2065_4-75451503.html
 RAM Map
 https://docs.microsoft.com/en-us/sysinternals/downloads/rammap
 
+Microsoft Teams
+https://teams.microsoft.com/downloads
+
